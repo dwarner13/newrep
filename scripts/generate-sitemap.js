@@ -1,0 +1,1 @@
+import './sitemaps/index.js';
